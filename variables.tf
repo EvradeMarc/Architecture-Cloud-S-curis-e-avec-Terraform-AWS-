@@ -7,7 +7,7 @@ variable "key_name" {
 }
 
 variable "ami_id" {
-  description = "AMI Linux"
+  description = "AMI Amazon Linux"
   default     = "ami-0ebf411a80b6b22cb"
 }
 
